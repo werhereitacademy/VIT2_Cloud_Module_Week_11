@@ -28,7 +28,7 @@
 
 3- Lan-2 IP 192.168.35.1-254 arasında olacaktır.
 
-4- Server0 DHCP server olacak ve tüm ip'leri otomatik olarak dağıtacaktır. Dağıtacağı ip'ler 192.168.35.120-192.168.35.140 arasında olacaktır.
+4- Server1 DHCP server olacak ve tüm ip’leri otomatik olarak dağıtacaktır. Dağıtacağı ip’ler 192.168.35.120-192.168.35.140 arasında olacaktır
 
 5- Server1 DNS server olacak, tüm laptop ve pclerin ip isim çözümlemesini yapacak. Aynı zamanda www.krt.com web sitesinin ip alan adı dönüşümünü yapacaktır.
 
